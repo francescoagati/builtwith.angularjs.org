@@ -283,6 +283,19 @@
         "jQuery",
         "Open Source"
       ]
+    },
+    {
+      "name": "tetractis-olympics",  // will be displayed under the screenshot
+      "thumb": "tetractis-olympics/thumb.png", // path to the image (omit the projects/ prefix)
+      "desc": "olympics 2012 real time live data", // One or two sentences
+      "url": "http://www.tetractis.it/speciali/olimpiadi_estive/2012/index.shtml", // url to your app
+      "info": "http://www.tetractis.it/speciali/olimpiadi_estive/2012/index.shtml", // url to explanation of app
+      "submitter": "Tetractis", // your github username
+      "submissionDate": "2012-08-02", // current date in ISO format
+      "tags": [
+        "Sport", "Olympics", "Live" 
+      ]
     }
+    
   ]
 }
